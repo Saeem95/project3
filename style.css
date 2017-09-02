@@ -1,0 +1,196 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	/*overflow-x: hidden;*/
+}
+.wapper{
+	width: 100%;
+}
+.header{
+	/*border: 2px solid black;*/
+	font-family: sans-serif;
+}
+
+.logoname{
+
+	display: inline;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.slider_img{
+	width: 100%;
+	height: 550px;
+	opacity: 10%;
+	position: absolute;
+	background-size: cover;
+	margin-left: 0px;
+	padding-left: 0px;
+
+}
+.slider{
+	/*position: absolute;*/
+	width: 100%;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.text_form{
+	position: relative;
+}
+.slider_text{
+	color: white;
+	padding-top: 80px;
+}
+.expert_section{
+	text-align: center;
+	/*border: 2PX solid black;*/
+	margin-bottom: 50px;
+	margin-top: 30px;
+
+}
+.footer{
+	text-align: center;
+}
+#rednum{
+	color: red;
+	text-decoration-style: none;
+	text-decoration: none ! important;
+	font-size: 20px;
+}
+.contact{
+	padding-top: 20px;
+	text-align: right;
+}
+.bluetext{
+	color: blue;
+}
+.form_box{
+	color: white;
+	text-align: center;
+
+}
+.slider_form{
+	background-color: #d92435;
+	height: 450px;
+}
+.form{
+	width: 100%;
+	margin-top: 2px;
+	height: 30px;
+	color: grey;
+}
+.form1{
+	width: 100%;
+	margin-top: 2px;
+	height: 30px;
+	color: grey;
+
+}
+.form2{
+	width: 100%;
+	margin-top: 2px;
+	height: 30px;
+	color: grey;
+
+}
+.black_box{ 
+	margin-top: 15px;
+	width: 100%;
+	height: 50px;
+	background-color: black;
+ }
+ .service_section{
+ 	margin-top: 50px;
+ }
+ .mainbox{
+ 	background-color: #2074b4;
+ 	height: 180px;
+ 	/*width: 365px;*/
+ }
+ .service{
+ 	padding: 10px;
+ 	padding-left: 25px;
+ }
+ .expert_box{
+ 	background-color: #d92435;
+ 	text-align: center;
+ 	height: 30px;
+ 	margin-bottom: 25px;
+
+ }
+ .pic{
+ 	height: 355px;
+ 	widows: 355px;
+ }
+ .background_color{
+ 	background-color: #2074b4;
+ }
+ .all{
+ 	padding: 20px;
+ 	padding-left: 25px;
+ }
+ .jhon{
+ 	color: red;
+ 	font-weight: bold;
+ }
+ .footer{
+ 	font-weight: bold;
+ 	margin-top: 15px;
+ }
+ .team_section{
+ 	margin-top: 50px;
+ 	margin-bottom: 50px; 
+ }
+ .bt{
+ 	padding-top: 7px;
+ 	color: white;
+ 	/*font-weight: bold;*/
+ }
+ .mainbox2{
+ 	background-color: white;
+ 	height: 180px;
+ 	/*width: 365px;*/
+ 	border: 2px solid gray;
+ }
+ .button{
+ 	height: 50px;
+ 	width: 200px;
+ 	margin-top: 25px;
+ 	font-weight: bold;
+ }
+ .txt{
+ 	font-weight: bold;
+ }
+ .txt1{
+ 	font-size: 30px;
+ }
+ .txt2{
+ 	font-size: 40px;
+ }
+ .box_txt{
+ 	color: white;
+ 	padding-top: 60px;
+ 	padding-left: 25px;
+ }
+ .box_txt2{
+ 	color: white;
+ 	padding-top: 60px;
+
+ }
+ .black_button{
+ 	background-color: black;
+ 	height: 40px;
+ 	width: 220px;
+ 	margin-top: 25px;
+ }
+ .dropdown{
+ 	color: grey;
+ }
+.mainbox{
+	color: white;
+}
